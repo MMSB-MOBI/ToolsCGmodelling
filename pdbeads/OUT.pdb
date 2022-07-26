@@ -1,0 +1,13 @@
+TITLE     Title
+REMARK    THIS IS A SIMULATION BOX
+CRYST1   50.608   50.608   85.000  90.00  90.00  90.00 P 1           1
+MODEL        1
+[ C1 ]
+ATOM     33  O12 SAPIA   1      26.230  20.670  64.290  1.00  0.00           O
+ATOM     29  H1  SAPIA   1      27.500  19.650  65.640  1.00  0.00           H
+ATOM     28  C11 SAPIA   1      26.420  19.730  65.380  1.00  0.00           C
+ATOM      1  C12 SAPIA   1      25.850  18.310  65.200  1.00  0.00           C
+ATOM      2  H2  SAPIA   1      26.460  17.880  64.350  1.00  0.00           H
+ATOM      3  O2  SAPIA   1      24.510  18.390  64.730  1.00  0.00           O
+ATOM      4  HO2 SAPIA   1      24.360  17.670  64.080  1.00  0.00           H
+[ C2 ]
